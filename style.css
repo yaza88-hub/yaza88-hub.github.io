@@ -5,7 +5,7 @@ body {
 	font-family: "游ゴシック Medium", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
 	line-height: 1.6;
     font-size: 16px;
-	background-color:  #ded89d;
+	background-color: #F0E68C;
 }
 #header-container {
   margin: 0 auto;
@@ -134,7 +134,7 @@ header {
 }
 #head-inner {
     padding: 25px 10px;
-	background-color: #000080;
+	background-color: #3a3a91;
 }
 .description {
 }
@@ -143,7 +143,7 @@ margin: 0;
 	width: 100%;}
 main {
 width: 100%;
-	color: #333;
+	color: #ded89d;
 }
 #inner {
 	padding: 20px 10px 0 10px;
